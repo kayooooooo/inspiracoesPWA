@@ -1,0 +1,37 @@
+{
+  "name": "Mensagens para seu dia",
+  "short_name": "Inspirações para o dia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "O melhor site de frases, mensagens e citações para seu dia!",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEju0-pN0Gz9AcPT1lnsQ8NLt7CwmdGQnoVSi027gwvWaGU5yaQmhfzhb_LbkY8DR2dcW2aXSAUzmTbGHzAbg_r5U-5Ucig4KP4CyNq1jWA9Jn65WB5bZJqixpBpJreidA3XFY3_qv7oIFOtfqcYtB3iomrZb4jvuHS0pBxlq3vb8QrbdkMtYfmdpr7I7g/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEPi8qGuw38nDzmYpfzN-EG6fGiXgzGCid51FGJDmmxtSJvxtQ9j18zU0aueK30mkfGNqfZFBH2viNzmjlb_YYx2DHsCXEW0hgtVKebhNH65hWUKWwq2pq7wUgT_VJXc474mqTcNIBgLlhtFm7wX1SgxHm9-37XkiioQ95AkbML_OljacI_voDr0DyEA/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid7XL0ClkSX0KlLGRgFBE6mtZ6LynqcADcLLV8k040KfJxLPiHwsbU1-FumCRxsRm_S84aMFLlvqVLS-tFcNzB1raT7CyjpczGZ9lupWFdBw5a-DG7nm7Co6nIC0slrNlEaq8RY9EEOFyPRHy4Jh7Zg_isKMmRp4yO6jUXgvqWfKKyxyBqhChG7hEt6A/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnNr8IH_ugxZdajEXScZfW6iB2q7zFP8NRiaxtatcO-aQQHC-u6WGSBnxhWsEKmm8_qvDTMIluOFvYgfqbQbmi07znWBR8oVjj03U_CEE3U0LYwkMsUa_6LCUjyFcwJ4Ff-u_gcv82iPYoFMllKKvq9OGu0sJCcOxn_PQkxK6__L4Bjac6ll_yHSGa8A/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Jm8Fm-KiVoa9KO7eQ9yxI-tpHlHpJt1J44vImPsMFnqWlDrxuIJ4GweVZkkUC2uQ90rN7aLdlQrnj6e6V96SjXMkHjA5AV9HtSxTjBCtrByh3RSP5OC0FECBF2KIEYhux4P7cpm-jllhG__mNYET28x5AC43D4HE0cW6vRDxw_eRmKpEFvi4bvCDbQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPKMXmoKRO5XmVcusOVRNttD0yA1Df_cEOnjqmwkVG0fDG1M8j_R8GZD9rnGHoXisMrkgxks7KNAlpVuL23hFn_4H74kZle910wY2r2HQUU-8QdeU9wT5hLQMRbM0JGrhi7FjFhvd-dIaTk9R82skb7VHiaMqU6NraHWQILxT0ifyg-GKvOUBS_UJbKA/s1600/ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  } {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTziQhMLmzmx6NLo01EWrQ6GuSINY7jcGmNuJD55aUI02CkSPJAUuUDUvHzevEsx87b9y-4nxfs2joDEt5xKJA8vb10XbIGwNPwOHMQZY2vczsmp75Ug1L8jY44EXkNktzoga13uRgRSpZ_1PxUw4ciMdq4NoQ-V2zLIFPsyLOi3hjJp2lmDigcHUCg/s1600/favicon%20500x500.png",
+    "sizes": "500x500",
+    "type": "image/png",
+}],
+}
