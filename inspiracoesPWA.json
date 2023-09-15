@@ -1,7 +1,7 @@
 {
-  "name": "Mensagens para seu dia",
-  "short_name": "Inspirações para o dia",
-  "start_url": ".",
+  "name": "Frases para status",
+  "short_name": "Frases para status & inspirações para o dia",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "description": "O melhor site de frases, mensagens e citações para seu dia!",
@@ -32,6 +32,6 @@
   } {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYTziQhMLmzmx6NLo01EWrQ6GuSINY7jcGmNuJD55aUI02CkSPJAUuUDUvHzevEsx87b9y-4nxfs2joDEt5xKJA8vb10XbIGwNPwOHMQZY2vczsmp75Ug1L8jY44EXkNktzoga13uRgRSpZ_1PxUw4ciMdq4NoQ-V2zLIFPsyLOi3hjJp2lmDigcHUCg/s1600/favicon%20500x500.png",
     "sizes": "500x500",
-    "type": "image/png",
-}],
+    "type": "image/png"
+}]
 }
